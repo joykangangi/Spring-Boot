@@ -1,4 +1,4 @@
-package com.jkangangi;
+package com.jkangangi.db.entities;
 
 import jakarta.persistence.*;
 

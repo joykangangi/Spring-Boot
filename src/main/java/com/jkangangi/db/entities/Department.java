@@ -1,7 +1,8 @@
-package com.jkangangi;
+package com.jkangangi.db.entities;
 
 import jakarta.persistence.*;
 
+import java.util.List;
 import java.util.Objects;
 
 @Entity
